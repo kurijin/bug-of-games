@@ -1,5 +1,8 @@
-# ゲーム名
+## ゲーム名
 Bug of Games
+
+## 参照ファイル
+https://drive.google.com/drive/folders/10vdNmT8zvtXWQJfb4NrtBB1Uk8CEWzHo?usp=share_link
 
 ## 概要
 Bug Gamesは、プレイヤーが様々ステージをクリアする主にアクションゲームです。
